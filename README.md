@@ -17,3 +17,4 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+# voting-app
