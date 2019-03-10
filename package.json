@@ -13,5 +13,10 @@
   "devDependencies": {
     "concurrently": "2.2.0",
     "live-server": "git://github.com/acco/live-server.git"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "fresh": "^0.5.2",
+    "moment": "^2.24.0"
   }
 }
